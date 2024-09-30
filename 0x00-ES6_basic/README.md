@@ -1,3 +1,3 @@
-# ALX Backend Javascript
+# ES6 Basics
 
-I am working to update the README real soon🚀
+Learning the basics of ES6
