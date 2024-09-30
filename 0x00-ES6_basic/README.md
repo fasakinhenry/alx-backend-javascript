@@ -1,3 +1,3 @@
 # ES6 Basics
 
-Learning the basics of ES6
+Working on the README 🚀
